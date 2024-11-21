@@ -20,9 +20,14 @@ In this final video walkthrough for "Exploring Azure," we’ll cover how to remo
 - Ubuntu Server 2022
 
 
-## Program Outcome
-The outcome of this project went beyond simply exploring Azure’s features. I gained a solid understanding of Azure architecture, including resource organization, storage management and container management. My networking skills were reinforced as I learned to create networks, set up subnets, and manage the flow of communication within them. I also deepened my knowledge of Network Security Groups, configuring rules to control incoming and outgoing traffic effectively. Working with Wireshark helped me bridge some knowledge gaps in monitoring network traffic and interpreting data flow.
+## Lessons Learned
+<p align="center">
+   The outcome of this project went beyond simply exploring Azure’s features. I gained a solid understanding of Azure architecture, including resource organization, storage management and container management. My networking skills were reinforced as I learned to create networks, set up subnets, and manage the flow of communication within them. I also deepened my knowledge of Network Security Groups, configuring rules to control incoming and outgoing traffic effectively. Working with Wireshark helped me bridge some knowledge gaps in monitoring network traffic and interpreting data flow.
 
 Perhaps most importantly, this project pushed me to step out of my comfort zone, overcome self-doubt, and realize that I am capable of sharing what I’ve learned with others. While there’s still room for improvement, this experience has built my confidence in both my technical skills and my ability to teach others. I can only go up from here!
- 
+</p>
+<br>
+<p align="center">
+    <strong>The Marathon Continues!</strong>
+</p>
 
